@@ -1,9 +1,9 @@
 ## misty-comedian
-Tools for deploying the Misty II robot as a comedian. Please email Carson (carsongray01@gmail.com) if you have any questions!
+Tools for deploying the Misty II robot as a comedian.
 
-Also, be sure to check the Misty Comedian System Google docs folder in the SHARE team drive: Commonly Useful Resources/Software and Stats/Robot Specific Resources/Misty
+Developed for my masters thesis in the SHARE Lab: https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/dn39x8822
 
-https://docs.google.com/document/d/1A0vF7gSCBwVBm1PYkXyvnx7wSTOyWQbQdZRka3bBqRw/edit
+The ML pipelines for audio and visual joke enjoyment classification are proprietary to the SHARE lab.
 
 This project works on Windows, but needs modification to work on Mac/Linux
 
