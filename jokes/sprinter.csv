@@ -1,0 +1,2 @@
+joke_ssml;positive_tag;neutral_tag;negative_tag;default_classification;joke_has_tag
+<speak>What do sprinters eat before a race? <break time="0.6s"/> Nothing, they fast.</speak>;<speak>A speedy laugh for a quality gaffe</speak>;<speak>Fast, means both foot speed, and not eating.</speak>;<speak>Perhaps you should switch to shotput</speak>;1;True

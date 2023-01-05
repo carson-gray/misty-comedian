@@ -1,0 +1,2 @@
+joke_ssml;positive_tag;neutral_tag;negative_tag;default_classification;joke_has_tag
+<speak>I beat the lowkll Chess champion in five moves. <break time="0.3s"/> The last one was a roundhouse kick.</speak>;<speak>Huzzah, another cobra kai enthooziee iisst.</speak>;<speak>Don't you get it, I beat them up</speak>;<speak>You didn't like that one, <break time="0.2s"/> care for a game of chess?</speak>;0;True

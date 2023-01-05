@@ -1,0 +1,2 @@
+joke_ssml;positive_tag;neutral_tag;negative_tag;default_classification;joke_has_tag
+<speak>Example joke</speak>;<speak>Positive tag.</speak>;<speak>Neutral tag.</speak>;<speak>Negative tag.</speak>;0;True

@@ -1,0 +1,2 @@
+joke_ssml;positive_tag;neutral_tag;negative_tag;default_classification;joke_has_tag
+<speak>Thanks for listening! That's my show. <break time="0.3s"/> I am Misty the comedian, have a great day!</speak>;<speak></speak>;<speak></speak>;<speak></speak>;0;False

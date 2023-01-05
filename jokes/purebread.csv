@@ -1,0 +1,2 @@
+joke_ssml;positive_tag;neutral_tag;negative_tag;default_classification;joke_has_tag
+<speak>Whenever I take my dog to the <emphasis>park</emphasis>, the ducks <emphasis>attack</emphasis> her. <break time="0.6s"/> That's what I get for buying a pure bread dog.</speak>;<speak>Your response is generous.</speak>;<speak>That was an <emphasis>adequate</emphasis> response given the quality of the joke.</speak>;<speak>I guess I have to set the ducks on you.</speak>;-1;True

@@ -1,0 +1,2 @@
+joke_ssml;positive_tag;neutral_tag;negative_tag;default_classification;joke_has_tag
+<speak>Did you hear about the starship Robots that got hit by the train? <break time="0.3s"/> I guess they didn't have enough train <break time="0.05s"/> ing data.</speak>;<speak>Personally, I would just <emphasis level="moderate">dodge</emphasis> the train!</speak>;<speak>I guess <emphasis level="strong">that</emphasis> joke didn't track</speak>;<speak>You must be one of the people that didn't get their food</speak>;1;True

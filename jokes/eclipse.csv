@@ -1,0 +1,2 @@
+joke_ssml;positive_tag;neutral_tag;negative_tag;default_classification;joke_has_tag
+<speak><emphasis level="strong">How</emphasis> does the <emphasis level="reduced">man-on-the-moon</emphasis> cut his hair? <break time="0.9s"/> Eclipse it.</speak>;<speak>Move over, Elon, there is a new space robot in town.</speak>;<speak>I missed the moon, perhaps I will land among the stars.</speak>;<speak>I guess the only <emphasis>eclipse</emphasis> yooo know is in the twilight sawga.</speak>;0;True

@@ -1,0 +1,2 @@
+joke_ssml;positive_tag;neutral_tag;negative_tag;default_classification;joke_has_tag
+<speak>When I was a child, my mother told me I could be whoever I wanted to be. <break time="0.3s"/> But it turns out, identity theft is a crime. </speak>;<speak>It was worth the prisonsentence to see that smile!</speak>;<speak>Apparently, crime doesn't pay in comedy either</speak>;<speak>You didn't like that one. Hey, what is your mother's maiden name?</speak>;0;True

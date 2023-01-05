@@ -1,0 +1,2 @@
+joke_ssml;positive_tag;neutral_tag;negative_tag;default_classification;joke_has_tag
+<speak>Did you hear that rumor about butter? <break time="0.3s"/> Well, I am sure not going to spread it.</speak>;<speak>With smiles like those, are you trying to butter me up?</speak>;<speak>I guess <emphasis level="strong">that</emphasis> joke was right on the margarine of being <emphasis level="reduced">funny</emphasis></speak>;<speak>I will, however, spread rumors about your poor sense of humor.</speak>;-1;True

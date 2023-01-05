@@ -1,0 +1,2 @@
+joke_ssml;positive_tag;neutral_tag;negative_tag;default_classification;joke_has_tag
+<speak>Which came first, the chicken or the egg? <break time="0.3s"/>Well I ordered both on Amazon so I will let you know!</speak>;<speak>Cluck, <emphasis>cluck</emphasis>. Thank you!</speak>;<speak>I guess that wasn't an <emphasis level="strong">egg</emphasis> celent delivery</speak>;<speak>If you don't laugh, again, I might steal your packages</speak>;1;True

@@ -1,0 +1,20 @@
+{
+    "misty": {
+        "ipAddress": "192.168.0.123",
+        "port": "5050"
+    },
+    "performance": {
+        "laughterClassifier": "postjoke_nb_3class.p",
+        "setlist": "performances/followup.txt",
+        "jokesDir": "jokes"
+    },
+    "aws": {
+        "pollyVoice": "Kendra",
+        "user": "default",
+        "region": "us-west-2"
+    },
+    "audio": {
+        "mean": 748.3276529821843,
+        "std": 815.4461403109916
+    }
+}
