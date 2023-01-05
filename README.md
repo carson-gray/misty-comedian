@@ -5,7 +5,7 @@ Developed for my masters thesis in the SHARE Lab: https://ir.library.oregonstate
 
 The ML pipelines for audio and visual joke enjoyment classification are proprietary to the SHARE lab.
 
-This project works on Windows, but needs modification to work on Mac/Linux
+This project works on Windows, but needs modification to work on Mac/Linux.
 
 ### Python
 Used Python 3.9 for pilot and followup studies. I would recommend using a virtual environment for managing libraries between projects.
